@@ -28,6 +28,8 @@ Cards can be added to Apple Pay and Google Pay and used worldwide wherever suppo
 
 ## About
 
+Proudly made by: Slimani Mohamed 🇩🇿
+
 KNGPay focuses on simple, direct crypto-to-card payments without requiring peer-to-peer exchanges or waiting for sellers.
 
 This repository is used for public documentation and brand reference.
